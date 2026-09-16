@@ -1,4 +1,4 @@
-# CLAUDE.md — mc-polymer-kmc
+# CLAUDE.md — radpoly-kmc
 
 > 言語: このプロジェクトのドキュメント・コミット・Claude の応答はすべて **日本語**。
 
